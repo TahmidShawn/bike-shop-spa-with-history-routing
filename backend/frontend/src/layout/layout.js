@@ -2,10 +2,10 @@ import navbar from "../components/navbar.js";
 import footer from "../components/footer.js";
 import router from "../router/router.js";
 
-const layout = () => {
+const layout = async () => {
     return `
 		${navbar()}
-		${router()}
+		${await router()}
 		${footer()}
 	
 	`;
