@@ -1,5 +1,10 @@
 const navbar = () => {
-    return `<h1>navbar</h1>`;
+    return `
+		<nav>
+			<a href="/" data-link>Home</a>
+			<a href="/about" data-link>About</a>
+		</nav>
+	`;
 };
 
 export default navbar;
