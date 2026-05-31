@@ -17,11 +17,17 @@ const __dirname = path.dirname(__filename);
 app.use("/api/bikes", bikesRouter);
 
 // serve frontend
-app.use(express.static(path.join(__dirname, "/frontend")));
+// app.use(express.static(path.join(__dirname, "/frontend")));
 
 // fallback
+// app.use((req, res) => {
+//     res.sendFile(path.join(__dirname, "/frontend/index.html"));
+// });
+
+app.use(express.static(path.join(__dirname, "frontend")));
+
 app.use((req, res) => {
-    res.sendFile(path.join(__dirname, "/frontend/index.html"));
+    res.sendFile(path.join(__dirname, "frontend", "index.html"));
 });
 
 export default app;
