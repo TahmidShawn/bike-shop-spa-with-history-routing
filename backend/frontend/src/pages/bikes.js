@@ -8,12 +8,12 @@ async function bikes() {
 
         ${bikes
             .map(
-                (p) => `
+                (bike) => `
             <div>
-                <h3>${p.name}</h3>
-                <p>$${p.price}</p>
+                <h3>${bike.name}</h3>
+                <p>$${bike.price}</p>
 
-                <a href="/bikes/${p.id}" data-link>
+                <a href="/bikes/${bike.id}" data-link>
                     View Details
                 </a>
             </div>
