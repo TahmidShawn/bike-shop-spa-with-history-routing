@@ -4,7 +4,7 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Bike Shop</title>
-        <link rel="stylesheet" href="/frontend/style.css" />
+        <link rel="stylesheet" href="./style.css" />
         <!-- tailwind -->
         <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
         <!-- front awesome -->
@@ -24,10 +24,21 @@
                 Nunito Sans,
                 sans-serif;
         "
-        class="max-w-screen-xl mx-auto px-2"
     >
         <!-- test  -->
+        <div class="relative w-full h-screen">
+            <img
+                src="./src/assets/hero.jpg"
+                class="w-full h-full object-cover"
+                alt=""
+            />
 
+            <p
+                class="absolute top-1/2 left-10 -translate-y-1/2 text-white text-4xl font-bold"
+            >
+                Bike Lesson for everyone
+            </p>
+        </div>
         <!-- container  -->
         <div id="nav_container"></div>
         <div id="root"></div>
