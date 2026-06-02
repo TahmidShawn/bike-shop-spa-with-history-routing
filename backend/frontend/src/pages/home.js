@@ -1,4 +1,9 @@
+import hero from "../components/home/hero.js";
+
 function home() {
-    return `<h1>Home Page</h1><p>Welcome to Home</p>`;
+    return `
+		${hero()}
+	
+	`;
 }
 export default home;

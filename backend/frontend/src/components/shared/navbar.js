@@ -1,6 +1,6 @@
 const navbar = () => {
     return `
-		<nav class="layout-wrapper flex justify-between items-center">
+		<nav class="layout-wrapper flex justify-between items-center py-3">
             <h2 class="text-xl">E-Ride</h2>
             <div class="space-x-8 text-lg">
                 <a href="/" data-link>Home</a>
