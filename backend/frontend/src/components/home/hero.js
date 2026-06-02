@@ -1,28 +1,39 @@
 const hero = () => {
     return `
-		<div class="relative w-full h-[60vh] md:h-[calc(100vh-52px)]">
-            <img
-                src="./src/assets/hero.jpg"
-                class="w-full h-full object-cover"
-                alt=""
-            />
+  <div class="relative w-full h-[60vh] md:h-[calc(100vh-52px)] overflow-hidden bg-black">
 
-            <div
-                class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white text-center"
-            >
-                <h2
-                    class="text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl font-bold md:font-medium tracking-wider whitespace-nowrap uppercase"
-                >
-                    Built for Riders. Designed for Freedom.
-                </h2>
-                <button
-                    class="text-xl border-white border-2 mt-8 cursor-pointer rounded-xl bg-[#353533] px-10 lg:px-16 py-1 lg:py-2"
-                >
-                    Explore
-                </button>
-            </div>
-        </div>
-	`;
+      <img
+          src="./src/assets/hero.jpg"
+          class="absolute right-0 top-0 h-full w-full md:w-3/4 object-cover"
+          alt="Bike hero"
+      />
+
+      <div class="absolute inset-0 bg-gradient-to-r from-black via-black/60 to-transparent"></div>
+
+      <div class="relative z-10 h-full flex items-center">
+          <div class="ml-8 md:ml-20 max-w-xl text-white">
+
+              <p class="text-xs tracking-[0.3em] text-gray-400 uppercase">
+                  Premium Bike Leasing
+              </p>
+
+              <h2 class="mt-4 text-3xl md:text-5xl font-semibold leading-tight">
+                  Built for Riders.<br />
+                  Designed for Freedom.
+              </h2>
+
+              <p class="mt-6 text-sm md:text-base text-gray-300 leading-relaxed">
+                  All-in-one leasing with insurance, maintenance, and roadside support included.
+                  Ride without limits, every day.
+              </p>
+
+              <div class="mt-8 w-16 h-[1px] bg-white/40"></div>
+
+          </div>
+      </div>
+
+  </div>
+  `;
 };
 
 export default hero;
