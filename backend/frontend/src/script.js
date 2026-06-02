@@ -1,5 +1,5 @@
-import navbar from "./components/navbar.js";
-import footer from "./components/footer.js";
+import navbar from "./components/shared/navbar.js";
+import footer from "./components/shared/footer.js";
 import router from "./router/router.js";
 
 const root = document.querySelector("#root");
