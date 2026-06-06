@@ -5,7 +5,7 @@ const aboutVision = () => {
 
 				<div class="w-full md:w-1/2">
 					<img 
-						src="https://images.unsplash.com/photo-1674300977354-d87838575f41?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjEyfHxlJTIwYmlrZXxlbnwwfHwwfHx8MA%3D%3D"
+						src="https://images.unsplash.com/photo-1624243519828-52a0f2c88af3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZSUyMGJpa2V8ZW58MHx8MHx8fDA%3D"
 						alt="bike"
 						class="w-full md:w-[500px] h-[400px] md:h-[550px] object-cover shadow-lg"
 					/>
@@ -14,11 +14,11 @@ const aboutVision = () => {
 				
 				<div class="w-full md:w-1/2 text-center md:text-left">
 					<h1 class="text-3xl md:text-4xl font-medium uppercase mb-4">
-						Bike plan for employees
+						Driving Freedom on Every Road
 					</h1>
 
 					<p class="text-gray-600 text-lg mb-6 leading-relaxed">
-						We provide structured bike training plans for employees to improve safety, confidence, and riding skills. Learn with expert guidance and modern techniques.
+						Our vision is to inspire a world where every ride brings freedom, joy, and confidence. We aim to make high-quality biking accessible to everyone by offering reliable, stylish, and performance-driven bikes that enhance everyday travel and adventure.
 					</p>
 
 					<button class="">

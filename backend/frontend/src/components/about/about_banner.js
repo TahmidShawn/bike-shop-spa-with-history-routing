@@ -14,17 +14,15 @@ const aboutBanner = () => {
 				<div class="ml-8 md:ml-20 max-w-xl text-white">
 
 					<p class="text-xs tracking-[0.3em] text-gray-400 uppercase">
-						e-bike
+						Premium Bike Shop
 					</p>
 
 					<h2 class="mt-4 text-3xl md:text-5xl font-semibold leading-tight">
-						Built for Riders.<br />
-						Designed for Freedom.
+					Quality bikes </br> for every smooth ride.
 					</h2>
 
 					<p class="mt-6 text-sm md:text-base text-gray-300 leading-relaxed">
-						All-in-one leasing with insurance, maintenance, and roadside support included.
-						Ride without limits, every day.
+						Premium Bike Shop is dedicated to bringing you reliable, stylish, and performance-driven bikes for every journey. From daily commuting to long-distance adventures, we focus on comfort, durability, and modern design to make every ride enjoyable and effortless.
 					</p>
 
 					<div class="mt-8 w-16 h-[1px] bg-white/40"></div>

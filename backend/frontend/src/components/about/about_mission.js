@@ -5,7 +5,7 @@ const aboutMission = () => {
 
 				<div class="w-full md:w-1/2">
 					<img 
-						src="https://images.unsplash.com/photo-1674300977354-d87838575f41?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjEyfHxlJTIwYmlrZXxlbnwwfHwwfHx8MA%3D%3D"
+						src="https://images.unsplash.com/photo-1620802051782-725fa33db067?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZSUyMGJpa2V8ZW58MHx8MHx8fDA%3D"
 						alt="bike"
 						class="w-full md:w-[500px] h-[400px] md:h-[550px] object-cover shadow-lg"
 					/>
@@ -14,11 +14,11 @@ const aboutMission = () => {
 				
 				<div class="w-full md:w-1/2 text-center md:text-left">
 					<h1 class="text-3xl md:text-4xl font-medium uppercase mb-4">
-						Bike plan for employees
+						Quality bikes for every ride.
 					</h1>
 
 					<p class="text-gray-600 text-lg mb-6 leading-relaxed">
-						We provide structured bike training plans for employees to improve safety, confidence, and riding skills. Learn with expert guidance and modern techniques.
+						We are dedicated to delivering high-quality bikes designed for performance, comfort, and everyday freedom. Whether you ride in the city or explore long routes, our bikes are built to give you a smooth and reliable experience.
 					</p>
 
 					<button class="">
