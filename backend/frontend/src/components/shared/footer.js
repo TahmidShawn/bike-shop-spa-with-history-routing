@@ -9,12 +9,11 @@ const footer = () => {
               
               <div class="md:w-1/3">
                   <h2 class="text-xl font-semibold text-gray-900">
-                      BikeLease
+                      E_RIDE
                   </h2>
 
                   <p class="mt-4 text-sm text-gray-600 leading-relaxed">
-                      Smart and flexible bike leasing solutions for companies.
-                      Fully serviced, insured, and ready for everyday mobility.
+                      Premium bikes built for performance, comfort, and freedom. Explore our collection and enjoy smooth, reliable rides designed for every journey. Ride with confidence, wherever the road takes you.
                   </p>
               </div>
 
@@ -51,11 +50,11 @@ const footer = () => {
 
           </div>
 
-          <!-- Bottom bar -->
+         
           <div class="mt-12 border-t border-gray-200 pt-6 flex flex-col md:flex-row justify-between items-center gap-4">
 
               <p class="text-sm text-gray-500">
-                  © ${new Date().getFullYear()} BikeLease. All rights reserved.
+                  © ${new Date().getFullYear()} E-RIDE. All rights reserved.
               </p>
 
               <p class="text-sm text-gray-500">

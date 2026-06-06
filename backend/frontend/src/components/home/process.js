@@ -7,48 +7,47 @@ const process = () => {
           
           <div class="md:w-1/2">
 
-              <h2 class="text-3xl md:text-4xl font-semibold text-gray-900">
-                  How it works
-              </h2>
+    <h2 class="text-3xl md:text-4xl font-semibold text-gray-900">
+        How it works
+    </h2>
 
-              <div class="mt-8 space-y-6 text-gray-600 text-sm md:text-base leading-relaxed">
+    <div class="mt-8 space-y-6 text-gray-600 text-sm md:text-base leading-relaxed">
 
-                  <div>
-                      <h3 class="font-medium text-gray-900">Register your company</h3>
-                      <p>
-                          Fill in our registration form with your company details. After your registration,
-                          our leasing partner will do a credit check. You will hear whether your application
-                          has been approved within 24 hours.
-                      </p>
-                  </div>
+        <div>
+            <h3 class="font-medium text-gray-900">Choose your bike</h3>
+            <p>
+                Browse our collection and select the bike that fits your style, needs, and budget.
+                From city rides to mountain adventures, we’ve got something for everyone.
+            </p>
+        </div>
 
-                  <div>
-                      <h3 class="font-medium text-gray-900">Determine the requirements</h3>
-                      <p>
-                          You get access to the digital platform. Set the requirements for your employees
-                          and share the registration link.
-                      </p>
-                  </div>
+        <div>
+            <h3 class="font-medium text-gray-900">Place your order</h3>
+            <p>
+                Add your chosen bike to the cart and complete a simple checkout process.
+                Our system ensures a fast and secure purchase experience.
+            </p>
+        </div>
 
-                  <div>
-                      <h3 class="font-medium text-gray-900">Ride your bike!</h3>
-                      <p>
-                          Let's go! Your employees can choose their bikes and they'll be delivered straight
-                          to their homes.
-                      </p>
-                  </div>
+        <div>
+            <h3 class="font-medium text-gray-900">Fast delivery</h3>
+            <p>
+                We prepare and deliver your bike straight to your doorstep with care and safety,
+                so it arrives ready to ride.
+            </p>
+        </div>
 
-                  <div>
-                      <h3 class="font-medium text-gray-900">Administration</h3>
-                      <p>
-                          Everything in one place. The digital platform gives you an easy overview of all
-                          the information for your payroll.
-                      </p>
-                  </div>
+        <div>
+            <h3 class="font-medium text-gray-900">Ride & enjoy</h3>
+            <p>
+                Unbox your bike, take it for a ride, and enjoy smooth performance backed by
+                quality engineering and support.
+            </p>
+        </div>
 
-              </div>
+    </div>
 
-          </div>
+</div>
 
         
           <div class="md:w-1/2 w-full flex justify-center items-center">

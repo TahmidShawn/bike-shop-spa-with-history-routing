@@ -14,7 +14,7 @@ const hero = () => {
 				<div class="ml-8 md:ml-20 max-w-xl text-white">
 
 					<p class="text-xs tracking-[0.3em] text-gray-400 uppercase">
-						Premium Bike Leasing
+						Premium Bike Shop
 					</p>
 
 					<h2 class="mt-4 text-3xl md:text-5xl font-semibold leading-tight">
@@ -23,8 +23,7 @@ const hero = () => {
 					</h2>
 
 					<p class="mt-6 text-sm md:text-base text-gray-300 leading-relaxed">
-						All-in-one leasing with insurance, maintenance, and roadside support included.
-						Ride without limits, every day.
+						Discover high-quality bikes built for performance, comfort, and style. Ride freely with gear designed for every journey.
 					</p>
 
 					<div class="mt-8 w-16 h-[1px] bg-white/40"></div>

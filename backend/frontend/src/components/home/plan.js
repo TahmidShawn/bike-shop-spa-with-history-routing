@@ -14,11 +14,11 @@ const plan = () => {
 				
 				<div class="w-full md:w-1/2 text-center md:text-left">
 					<h1 class="text-3xl md:text-4xl font-medium uppercase mb-4">
-						Bike plan for employees
+						Ride Beyond Limits
 					</h1>
 
 					<p class="text-gray-600 text-lg mb-6 leading-relaxed">
-						We provide structured bike training plans for employees to improve safety, confidence, and riding skills. Learn with expert guidance and modern techniques.
+						Discover bikes built to match your lifestyle. Whether you’re commuting through the city or exploring open roads, our collection combines comfort, performance, and durability to give you a smooth and powerful riding experience every time.
 					</p>
 
 					<button class="">

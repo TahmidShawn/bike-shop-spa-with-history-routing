@@ -24,11 +24,7 @@ const services = () => {
 				</p>
 
 				<p class="mt-4 text-gray-300 leading-relaxed">
-					The lease includes an all-in service package
-					throughout the entire 36 months, you are
-					fully insured against damage, theft and
-					maintenance. In addition, you always have
-					access to roadside assistance. 
+					Keep your ride in top condition with our complete support system. From regular maintenance and expert servicing to reliable insurance coverage, we make sure your bike stays safe, smooth, and ready for every journey. Ride with confidence knowing we’ve got you covered at every step.
 				</p>
 				</div>
 			</div>

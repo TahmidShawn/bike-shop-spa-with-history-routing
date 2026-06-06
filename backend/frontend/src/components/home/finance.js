@@ -14,11 +14,11 @@ const finance = () => {
 				
 				<div class="w-full md:w-1/2 text-center md:text-left">
 					<h1 class="text-3xl md:text-4xl font-medium uppercase mb-4">
-						Bike plan for employees
+						Built for Every Journey
 					</h1>
 
 					<p class="text-gray-600 text-lg mb-6 leading-relaxed">
-						We provide structured bike training plans for employees to improve safety, confidence, and riding skills. Learn with expert guidance and modern techniques.
+						From daily commutes to weekend adventures, our bikes are designed to deliver comfort, control, and performance on every ride. Experience smooth handling, reliable engineering, and a design that moves with your lifestyle.
 					</p>
 
 					<button class="">

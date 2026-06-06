@@ -1,5 +1,7 @@
 async function bike(id) {
-    const res = await fetch(`https://bike-shop-spa-with-history-routing-4.onrender.com/api/bikes/${id}`);
+    const res = await fetch(
+        `https://bike-shop-spa-with-history-routing-4.onrender.com/api/bikes/${id}`,
+    );
     const bike = await res.json();
 
     return `
