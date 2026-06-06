@@ -1,5 +1,3 @@
----
-
 # E-Ride Bike Shop (SPA)
 
 Live: [https://bike-shop-spa-with-history-routing-4.onrender.com](https://bike-shop-spa-with-history-routing-4.onrender.com)
