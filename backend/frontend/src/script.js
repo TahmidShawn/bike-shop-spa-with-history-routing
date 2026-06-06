@@ -1,5 +1,6 @@
 import navbar from "./components/shared/navbar.js";
 import footer from "./components/shared/footer.js";
+import loading from "./components/shared/loading.js";
 import router from "./router/router.js";
 
 const root = document.querySelector("#root");
@@ -12,7 +13,7 @@ footer_container.innerHTML = footer();
 
 // render dynamic contain
 const renderFunc = async () => {
-    root.innerHTML = "<p>Loading...</p>";
+    root.innerHTML = loading();
     root.innerHTML = await router();
 };
 
